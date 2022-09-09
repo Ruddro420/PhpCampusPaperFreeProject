@@ -7,6 +7,6 @@
 // databse user password = ""
 // databse name = home_inventory
 
-$link = mysqli_connect("localhost","root","","home_inventory");
+$link = mysqli_connect("localhost","root","","cse");
 
 ?>
